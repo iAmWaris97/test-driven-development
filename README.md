@@ -24,12 +24,11 @@
       - [2 - Clone the repository.](#2---clone-the-repository)
     - [Usage](#usage)
       - [3 - run the project](#3---run-the-project)
-  - [👤 Authors ](#-authors-)
+  - [👤 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
@@ -94,19 +93,13 @@ later
 
 <!-- AUTHORS -->
 
-## 👤 Authors <a name="authors"></a>
+## 👤 Author <a name="authors"></a>
 
 **👨‍💻 Waris Haleem**
 
 - GitHub: [@iAmWaris97](https://github.com/iAmWaris97)
 - Twitter: [@iAmWaris97](https://twitter.com/iAmWaris97)
 - LinkedIn: [Waris Haleem](https://www.linkedin.com/in/waris-haleem/)
-
-**👨‍💻 Mulugeta M.**
-
-- GitHub: [@belmeetmule](https://github.com/belmeetmule)
-- Twitter: [@belmeetmule](https://twitter.com/belmeetmule)
-- LinkedIn: [belmeetmule](https://linkedin.com/in/belmeetmule)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,20 +136,6 @@ Feel free to check the [issues page](../../issues/).
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Thanks to all the developers whose code, documentations, and efforts helped us doing this project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-- **What is the usage of the app?**
-
-  - It stores names of books along with the people who borrow them
-
-- **What does the app use to store the data?**
-
-  - Currently data is not stored in any file or database, but later I will add a feature to store the data into JSON file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
